@@ -8,3 +8,11 @@ This project demonstrates the implementation of an object detection system using
 ***Pre-trained Models*** : Utilizes pre-trained models for quick deployment and testing.  
 ***Video and Image Processing*** : Supports both video streams and static images for object detection.  
 ***Visualization*** : Annotates detected objects with bounding boxes and class labels for better visualization.  
+
+# Tools and Libraries  
+***Python*** : The main programming language used for implementing the project.  
+***TensorFlow*** : Used for model training and deployment.  
+***OpenCV*** : Utilized for image and video processing.  
+***YOLO*** : The core object detection algorithm used for real-time detection.  
+***NumPy*** : For numerical operations and data handling.  
+***Matplotlib*** : For visualizing training results and detected objects.  
