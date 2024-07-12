@@ -9,7 +9,7 @@ This project demonstrates the implementation of an object detection system using
 ***Video and Image Processing*** : Supports both video streams and static images for object detection.  
 ***Visualization*** : Annotates detected objects with bounding boxes and class labels for better visualization.  
 
-# Tools and Libraries  
+## Tools and Libraries  
 ***Python*** : The main programming language used for implementing the project.  
 ***TensorFlow*** : Used for model training and deployment.  
 ***OpenCV*** : Utilized for image and video processing.  
