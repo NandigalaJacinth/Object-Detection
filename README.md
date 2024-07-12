@@ -15,4 +15,13 @@ This project demonstrates the implementation of an object detection system using
 ***OpenCV*** : Utilized for image and video processing.  
 ***YOLO*** : The core object detection algorithm used for real-time detection.  
 ***NumPy*** : For numerical operations and data handling.  
-***Matplotlib*** : For visualizing training results and detected objects.  
+***Matplotlib*** : For visualizing training results and detected objects. 
+
+## Results
+Examples of detected objects with bounding boxes and class labels will be saved in the results/ directory. The performance metrics for the trained model, including precision and recall, will be displayed after evaluation.
+
+## Contributing
+Contributions are welcome! Please submit a pull request or open an issue to discuss any improvements or bug fixes.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
